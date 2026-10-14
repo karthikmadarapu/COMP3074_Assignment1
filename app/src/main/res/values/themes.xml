@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://android.com">
+    <!-- Base application theme. -->
+    <style name="Theme.PayCalculator" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here if needed -->
+    </style>
+</resources>
